@@ -1,7 +1,7 @@
 #
 # Program Name: player_app.py
 #
-# Author(s): Joshua Jiwanmalla
+# Author(s): Joshua Jiwanmall
 #
 # Date: 03/12/2026
 #
