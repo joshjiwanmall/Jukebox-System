@@ -1,7 +1,7 @@
 #
 # Program Name: user_app.py
 #
-# Author(s): Joshua Jiwanmall
+# Author(s): Joshua Jiwanmall, Mujtaba Raza
 #
 # Date: 03/12/2026
 #
